@@ -40,9 +40,20 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/jira.png"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
-
 </p>
-
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)" alt="doanphuong1999" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=highcontrast&show_icons=true)" alt="doanphuong1999" width="100%"/>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://images.viblo.asia/full/a057f110-db0c-4ec2-b806-42edee17d879.jpg" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
 # Certificates:
 
 <p align="center">
