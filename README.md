@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doan Phuong</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A Passionate Developer From VietNam </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=phuongdoan1999" alt="phuongdoan1999" /> <img src="https://github.com/account" /> </p>
+<h3 align="center">QA/QC Testing </h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=phuongdoan1999" alt="phuongdoan1999" /> 
 
 - 🎓 Graduated: [Ho Chi Minh City University of Technology](https://www.hutech.edu.vn/) (HUTECH).
 
