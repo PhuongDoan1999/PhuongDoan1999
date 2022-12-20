@@ -13,11 +13,8 @@
 ## ✨🎊🎉 How to reach me:
 
 <p align="center">
-  <a href="linkedin.com/in/doan-phuong-644255236" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href="https://www.facebook.com/phuongdoan1999/" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  <a href="https://web.skype.com/live:doanphuong151105" alt="Skype">
+    <img src="https://img.icons8.com/color/48/null/skype--v1.png" target="_blank" />
   </a> 
   <a href="https://github.com/PhuongDoan1999" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
