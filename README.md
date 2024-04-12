@@ -57,7 +57,7 @@
   <a href="https://www.hutech.edu.vn/ttnn">
     <img src= />
   </a>
-  <a href="https://www.hutech.edu.vn/english/news/hutech-news/14603292-more-than-100-it-students-complete-the-agile-scrum-course-with-dek-technologies">
+  <a href="[https://www.hutech.edu.vn/english/news/hutech-news/14603292-more-than-100-it-students-complete-the-agile-scrum-course-with-dek-technologies](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcohoi.tuoitre.vn%2Fdetail%2F9819%2F557%2F12%2FNgay-hoi-Tuyen-dung----Trien-lam-HUTECH-IT-Open-Day-2021.html&psig=AOvVaw0EFdJ3vkfsbog2Cjl1qRbu&ust=1713017616913000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCcgpPuvIUDFQAAAAAdAAAAABAE)">
     <img src= />
   </a>
 </p>
