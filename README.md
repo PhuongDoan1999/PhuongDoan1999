@@ -54,7 +54,7 @@
 # Certificates:
 
 <p align="center">
-  <a href="https://www.hutech.edu.vn/ttnn">
+  <a href="https://www.hutech.edu.vn/english/news/hutech-news/14603292-more-than-100-it-students-complete-the-agile-scrum-course-with-dek-technologies">
     <img src= />
   </a>
   <a href="https://www.hutech.edu.vn/english/news/hutech-news/14603292-more-than-100-it-students-complete-the-agile-scrum-course-with-dek-technologies">
